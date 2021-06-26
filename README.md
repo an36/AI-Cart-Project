@@ -1,6 +1,8 @@
 # AI Cart Project
 This repo contains the Source Codes, Schematics, and 3D CAD Designs used to create the AI Cart Project.
 
+Click [here](https://drive.google.com/file/d/1iyRoXhl8uxFpuyytdF5QU8506DrWWetQ/view?usp=sharing) to see he **AI Cart Project Demo**. 
+
 ---
 
 The goal behind the AI Cart Project is to develop a fully functioning prototype of an autonomous shopping cart with a team using a microcontroller, 3D printer, and as
