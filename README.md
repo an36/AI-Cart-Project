@@ -1,7 +1,7 @@
 # AI Cart Project
 This repo contains the Source Codes, Schematics, and 3D CAD Designs used to create the AI Cart Project.
 
-Click [here](https://drive.google.com/file/d/1iyRoXhl8uxFpuyytdF5QU8506DrWWetQ/view?usp=sharing) to see the **AI Cart Project Demo**. 
+Click [here](https://res.cloudinary.com/dhud5kifu/video/upload/v1625266658/demos/The_Ai_Cart_ns5o38.mp4) to see the **AI Cart Project Demo**. 
 
 ---
 
