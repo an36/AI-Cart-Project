@@ -26,7 +26,7 @@ The AI Cart was built and configured using:
 
 ---
 
-Abdullah's contripution(s):
+Abdullah's contribution(s):
 * Source Code: cart.c, cart.h, cartGUI.c, motors.c, and sensors.c.
 * Schematics: Sensors Schematic & Motors Schematic.
 * 3D CAD Designs: Motors Mounts (mtr_mount_FL_BR.stl & mtr_mount_FR_BL.stl) and Pi 4 Case (Pi-case_V1.0.stl).
